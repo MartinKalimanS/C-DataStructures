@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/marti/OneDrive/Escritorio/Universidad/Year-2/1er-semestre/Estructura-De-Datos/Labs/Lab 2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/playList_c.dir/includes_C.rsp -g -Wall -Wextra -Wpedantic -o CMakeFiles\\playList_c.dir\\src\\PlayList.c.obj -c \"C:\\Users\\marti\\OneDrive\\Escritorio\\Universidad\\Year-2\\1er-semestre\\Estructura-De-Datos\\Labs\\Lab 2\\codes\\PlayList\\src\\PlayList.c\"",
+  "file": "C:/Users/marti/OneDrive/Escritorio/Universidad/Year-2/1er-semestre/Estructura-De-Datos/Labs/Lab 2/codes/PlayList/src/PlayList.c",
+  "output": "CMakeFiles/playList_c.dir/src/PlayList.c.obj"
+},
+{
+  "directory": "C:/Users/marti/OneDrive/Escritorio/Universidad/Year-2/1er-semestre/Estructura-De-Datos/Labs/Lab 2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/playList_c.dir/includes_C.rsp -g -Wall -Wextra -Wpedantic -o CMakeFiles\\playList_c.dir\\src\\main.c.obj -c \"C:\\Users\\marti\\OneDrive\\Escritorio\\Universidad\\Year-2\\1er-semestre\\Estructura-De-Datos\\Labs\\Lab 2\\codes\\PlayList\\src\\main.c\"",
+  "file": "C:/Users/marti/OneDrive/Escritorio/Universidad/Year-2/1er-semestre/Estructura-De-Datos/Labs/Lab 2/codes/PlayList/src/main.c",
+  "output": "CMakeFiles/playList_c.dir/src/main.c.obj"
+}
+]

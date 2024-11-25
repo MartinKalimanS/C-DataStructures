@@ -1,0 +1,3 @@
+C:/Users/marti/OneDrive/Escritorio/Universidad/Year-2/1er-semestre/Estructura-De-Datos/Labs/Lab 2/build/CMakeFiles/playList_c.dir
+C:/Users/marti/OneDrive/Escritorio/Universidad/Year-2/1er-semestre/Estructura-De-Datos/Labs/Lab 2/build/CMakeFiles/edit_cache.dir
+C:/Users/marti/OneDrive/Escritorio/Universidad/Year-2/1er-semestre/Estructura-De-Datos/Labs/Lab 2/build/CMakeFiles/rebuild_cache.dir

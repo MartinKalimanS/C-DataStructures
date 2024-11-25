@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/alumno/Documents/Lab 1/codes/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/task_scheduler.dir/includes_C.rsp -g -Wall -Wextra -Wpedantic -o CMakeFiles\\task_scheduler.dir\\src\\Main.c.obj -c \"C:\\Users\\alumno\\Documents\\Lab 1\\codes\\TaskScheduler\\src\\Main.c\"",
+  "file": "C:/Users/alumno/Documents/Lab 1/codes/TaskScheduler/src/Main.c",
+  "output": "CMakeFiles/task_scheduler.dir/src/Main.c.obj"
+},
+{
+  "directory": "C:/Users/alumno/Documents/Lab 1/codes/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/task_scheduler.dir/includes_C.rsp -g -Wall -Wextra -Wpedantic -o CMakeFiles\\task_scheduler.dir\\src\\Scheduler.c.obj -c \"C:\\Users\\alumno\\Documents\\Lab 1\\codes\\TaskScheduler\\src\\Scheduler.c\"",
+  "file": "C:/Users/alumno/Documents/Lab 1/codes/TaskScheduler/src/Scheduler.c",
+  "output": "CMakeFiles/task_scheduler.dir/src/Scheduler.c.obj"
+},
+{
+  "directory": "C:/Users/alumno/Documents/Lab 1/codes/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/task_scheduler.dir/includes_C.rsp -g -Wall -Wextra -Wpedantic -o CMakeFiles\\task_scheduler.dir\\src\\Task.c.obj -c \"C:\\Users\\alumno\\Documents\\Lab 1\\codes\\TaskScheduler\\src\\Task.c\"",
+  "file": "C:/Users/alumno/Documents/Lab 1/codes/TaskScheduler/src/Task.c",
+  "output": "CMakeFiles/task_scheduler.dir/src/Task.c.obj"
+}
+]
