@@ -1,0 +1,3 @@
+C:/Users/marti/OneDrive/Escritorio/Universidad/Año-2/1er-semestre/Estructura-De-Datos/LinkedList/build/CMakeFiles/data_structures_c.dir
+C:/Users/marti/OneDrive/Escritorio/Universidad/Año-2/1er-semestre/Estructura-De-Datos/LinkedList/build/CMakeFiles/edit_cache.dir
+C:/Users/marti/OneDrive/Escritorio/Universidad/Año-2/1er-semestre/Estructura-De-Datos/LinkedList/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/marti/OneDrive/Escritorio/Universidad/Year-2/1er-semestre/Estructura-De-Datos/ClassExercises/ArrayList/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/data_structures_c.dir/includes_C.rsp -g -Wall -Wextra -Wpedantic -o CMakeFiles\\data_structures_c.dir\\src\\ArrayList.c.obj -c C:\\Users\\marti\\OneDrive\\Escritorio\\Universidad\\Year-2\\1er-semestre\\Estructura-De-Datos\\ClassExercises\\ArrayList\\codes\\ArrayLists\\src\\ArrayList.c",
+  "file": "C:/Users/marti/OneDrive/Escritorio/Universidad/Year-2/1er-semestre/Estructura-De-Datos/ClassExercises/ArrayList/codes/ArrayLists/src/ArrayList.c",
+  "output": "CMakeFiles/data_structures_c.dir/src/ArrayList.c.obj"
+},
+{
+  "directory": "C:/Users/marti/OneDrive/Escritorio/Universidad/Year-2/1er-semestre/Estructura-De-Datos/ClassExercises/ArrayList/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/data_structures_c.dir/includes_C.rsp -g -Wall -Wextra -Wpedantic -o CMakeFiles\\data_structures_c.dir\\src\\main.c.obj -c C:\\Users\\marti\\OneDrive\\Escritorio\\Universidad\\Year-2\\1er-semestre\\Estructura-De-Datos\\ClassExercises\\ArrayList\\codes\\ArrayLists\\src\\main.c",
+  "file": "C:/Users/marti/OneDrive/Escritorio/Universidad/Year-2/1er-semestre/Estructura-De-Datos/ClassExercises/ArrayList/codes/ArrayLists/src/main.c",
+  "output": "CMakeFiles/data_structures_c.dir/src/main.c.obj"
+}
+]
