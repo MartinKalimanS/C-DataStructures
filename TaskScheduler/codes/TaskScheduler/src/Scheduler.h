@@ -1,7 +1,3 @@
-//
-// Pepe Gallardo, Data Structures, UMA.
-//
-
 #ifndef SCHEDULER_H
 #define SCHEDULER_H
 

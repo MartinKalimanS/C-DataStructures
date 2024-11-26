@@ -1,9 +1,4 @@
-//
-// Pepe Gallardo, Data Structures, UMA.
-//
-
 #include "Task.h"
-
 #include <assert.h>
 #include <stdlib.h>
 #include <string.h>

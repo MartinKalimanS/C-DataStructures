@@ -1,7 +1,3 @@
-//
-// Pepe Gallardo, Data Structures, UMA.
-//
-
 #ifndef PLAYLIST_H
 #define PLAYLIST_H
 

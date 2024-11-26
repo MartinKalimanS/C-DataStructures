@@ -1,7 +1,3 @@
-//
-// Pepe Gallardo, Data Structures, UMA.
-//
-
 #ifndef TASK_H // Conditional inclusion
 #define TASK_H // Avoids multiple inclusion
 

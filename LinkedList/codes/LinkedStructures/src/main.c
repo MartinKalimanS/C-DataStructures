@@ -1,9 +1,4 @@
-//
-// Pepe Gallardo, Data Structures, UMA.
-//
-
 #include <stdio.h>
-
 #include "LinkedStructure.h"
 
 int main(void) {

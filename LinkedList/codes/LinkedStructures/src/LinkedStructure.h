@@ -1,7 +1,3 @@
-//
-// Pepe Gallardo, Data Structures, UMA.
-//
-
 #ifndef LINKEDSTRUCTURE_H // Conditional inclusion
 #define LINKEDSTRUCTURE_H // Avoids multiple inclusion
 

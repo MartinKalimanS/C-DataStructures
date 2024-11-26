@@ -1,7 +1,3 @@
-//
-// Pepe Gallardo, Data Structures, UMA.
-//
-
 #include "Scheduler.h"
 #include <stdio.h>
 

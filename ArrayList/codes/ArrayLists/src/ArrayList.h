@@ -1,7 +1,3 @@
-//
-// Pepe Gallardo, Data Structures, UMA.
-//
-
 #ifndef ARRAYLIST_H // Conditional inclusion
 #define ARRAYLIST_H // Avoids multiple inclusion
 

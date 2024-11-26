@@ -1,7 +1,3 @@
-//
-// Pepe Gallardo, Data Structures, UMA.
-//
-
 #include <assert.h>
 #include <stdio.h>
 #include <stdint.h>
